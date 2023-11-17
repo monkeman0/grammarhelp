@@ -1,0 +1,8 @@
+{
+    "manifest_version": 3,
+    "name": "My Extension",
+    "description": "This is my extension.",
+    "version": "1.0.0",
+    "permissions": ["tabs", "create"],
+    "scripts": ["index.js"]
+  }
